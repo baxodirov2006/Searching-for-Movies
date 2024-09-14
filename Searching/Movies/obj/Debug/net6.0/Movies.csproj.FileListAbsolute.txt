@@ -1,34 +1,52 @@
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Movies.exe
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Movies.deps.json
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Movies.pdb
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\refint\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.pdb
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\ref\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Assalomu Alaykum\Desktop\AbbosBilan\Updeted Movies\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Movies.exe
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Movies.deps.json
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Movies.pdb
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\refint\Movies.dll
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.pdb
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
-C:\Users\Assalomu Alaykum\Desktop\testuchun\Searching-for-Movies\Searching\Movies\obj\Debug\net6.0\ref\Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Movies.exe
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Movies.deps.json
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Movies.runtimeconfig.json
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Movies.pdb
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.csproj.AssemblyReference.cache
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.AssemblyInfoInputs.cache
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.AssemblyInfo.cs
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.csproj.CoreCompileInputs.cache
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/refint/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.pdb
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.genruntimeconfig.cache
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/ref/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Assalomu Alaykum/Desktop/AbbosBilan/Updeted Movies/Movies/obj/Debug/net6.0/Movies.csproj.CopyComplete
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.exe
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.deps.json
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.runtimeconfig.json
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.pdb
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.AssemblyReference.cache
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.AssemblyInfoInputs.cache
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.AssemblyInfo.cs
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.CoreCompileInputs.cache
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.CopyComplete
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/refint/Movies.dll
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.pdb
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.genruntimeconfig.cache
+C:/Users/Assalomu Alaykum/Desktop/testuchun/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/ref/Movies.dll
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.deps.json
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.runtimeconfig.json
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.dll
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Movies.pdb
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.AssemblyReference.cache
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.AssemblyInfoInputs.cache
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.AssemblyInfo.cs
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.sourcelink.json
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.csproj.Up2Date
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.dll
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/refint/Movies.dll
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.pdb
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/Movies.genruntimeconfig.cache
+/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/Debug/net6.0/ref/Movies.dll

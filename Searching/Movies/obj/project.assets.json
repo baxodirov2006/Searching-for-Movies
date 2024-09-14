@@ -52,26 +52,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Assalomu Alaykum\\.nuget\\packages\\": {}
+    "/Users/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\Movies.csproj",
+      "projectUniqueName": "/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/Movies.csproj",
       "projectName": "Movies",
-      "projectPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\Movies.csproj",
-      "packagesPath": "C:\\Users\\Assalomu Alaykum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\obj\\",
+      "projectPath": "/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/Movies.csproj",
+      "packagesPath": "/Users/user/.nuget/packages/",
+      "outputPath": "/Users/user/Desktop/c# learning/Searching-for-Movies/Searching/Movies/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Assalomu Alaykum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -84,6 +82,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -106,12 +109,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
       }
     }
   }
